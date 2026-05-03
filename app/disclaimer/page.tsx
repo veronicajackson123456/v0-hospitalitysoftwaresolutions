@@ -163,8 +163,10 @@ export default function DisclaimerPage() {
         </p>
         <ul>
           <li><strong>Email:</strong> <a href="mailto:info@hospitalitysoftwaresolutions.com">info@hospitalitysoftwaresolutions.com</a></li>
-          <li><strong>Phone:</strong> +1 (555) 123-4567</li>
-          <li><strong>Address:</strong> 30 N Gould Street, Sheridan, Wyoming 82801, USA</li>
+          <li><strong>UK Phone:</strong> <a href="tel:+443333355520">+44 (0)333 335 5520</a></li>
+          <li><strong>US Phone:</strong> <a href="tel:+13024696267">+1 (302) 469-6267</a></li>
+          <li><strong>UK Office:</strong> 84 Swinton Hall Road, Swinton, Manchester, M27 4BJ, United Kingdom</li>
+          <li><strong>US Office:</strong> 131 Continental Drive, Newark, Delaware 19713, USA</li>
         </ul>
       </section>
     </LegalLayout>

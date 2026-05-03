@@ -154,16 +154,22 @@ export default function LegalPage() {
                   </li>
                   <li className="flex items-start gap-3">
                     <Phone className="w-4 h-4 text-orange-500 shrink-0 mt-0.5" />
-                    <a href="tel:+15551234567" className="text-sm text-gray-700 hover:text-orange-500 transition-colors">
-                      +1 (555) 123-4567
+                    <a href="tel:+13024696267" className="text-sm text-gray-700 hover:text-orange-500 transition-colors">
+                      +1 (302) 469-6267 (US)
+                    </a>
+                  </li>
+                  <li className="flex items-start gap-3">
+                    <Phone className="w-4 h-4 text-orange-500 shrink-0 mt-0.5" />
+                    <a href="tel:+443333355520" className="text-sm text-gray-700 hover:text-orange-500 transition-colors">
+                      +44 (0)333 335 5520 (UK)
                     </a>
                   </li>
                   <li className="flex items-start gap-3">
                     <MapPin className="w-4 h-4 text-orange-500 shrink-0 mt-0.5" />
                     <address className="text-sm text-gray-700 not-italic">
-                      30 N Gould Street, Sheridan
-                      <br />
-                      Wyoming 82801, USA
+                      131 Continental Drive<br />
+                      Newark, Delaware 19713<br />
+                      United States
                     </address>
                   </li>
                 </ul>
