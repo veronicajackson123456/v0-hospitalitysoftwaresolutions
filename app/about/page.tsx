@@ -10,7 +10,7 @@ import Link from "next/link"
 export const metadata: Metadata = {
   title: "About Us | HMCTS LLC",
   description:
-    "Learn about HMCTS LLC — a US-incorporated hospitality software company with UK operational presence and 30+ years of collective industry experience serving independent hotels in the US and UK.",
+    "Learn about HMCTS LLC LLC — a US-incorporated hospitality software company with UK operational presence and 30+ years of collective industry experience serving independent hotels in the US and UK.",
 }
 
 const values = [
@@ -156,8 +156,8 @@ export default function AboutPage() {
                   </li>
                   <li className="flex items-center gap-2">
                     <Phone className="w-4 h-4 text-teal-500 shrink-0" />
-                    <a href="tel:+13024696267" className="text-teal-600 hover:text-teal-700 transition-colors">
-                      +1 (302) 469-6267
+                    <a href="tel:+13025991401" className="text-teal-600 hover:text-teal-700 transition-colors">
+                      +1 (302) 599-1401
                     </a>
                   </li>
                   <li className="flex items-center gap-2">
@@ -212,7 +212,7 @@ export default function AboutPage() {
           <div className="container mx-auto px-4 max-w-7xl">
             <div className="text-center mb-14">
               <Badge className="mb-4 bg-teal-50 text-teal-700 border-teal-200 rounded-full">Leadership</Badge>
-              <h2 className="text-4xl font-bold text-gray-900 mb-4">The team behind HMCTS</h2>
+              <h2 className="text-4xl font-bold text-gray-900 mb-4">The team behind HMCTS LLC</h2>
               <p className="text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed">
                 Our leadership brings decades of combined experience in hotel operations, hospitality technology, and business development across the US and UK markets.
               </p>

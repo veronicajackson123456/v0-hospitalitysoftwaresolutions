@@ -60,7 +60,7 @@ export default function AcceptableUsePage() {
           <li>Connecting to OTA channels (such as Booking.com, Expedia, and Airbnb) via our channel management tools for the properties you operate or manage.</li>
           <li>Processing guest payments through integrated payment gateways for legitimate accommodation transactions.</li>
           <li>Generating reports and analytics to support the management and operation of your property.</li>
-          <li>Using the API to build integrations that connect HMCTS with other business tools used in your property operations, where such integrations are disclosed to and approved by HMCTS.</li>
+          <li>Using the API to build integrations that connect HMCTS with other business tools used in your property operations, where such integrations are disclosed to and approved by HMCTS LLC.</li>
           <li>Accessing the platform on behalf of authorised employees or contractors of your organisation.</li>
         </ul>
       </section>
@@ -262,7 +262,7 @@ export default function AcceptableUsePage() {
           <li><strong>Email:</strong> <a href="mailto:info@hospitalitysoftwaresolutions.com">info@hospitalitysoftwaresolutions.com</a></li>
           <li><strong>UK Office Phone:</strong> <a href="tel:+443333355520">+44 (0)333 335 5520</a></li>
           <li><strong>UK Office:</strong> 84 Swinton Hall Road, Swinton, Manchester, M27 4BJ, United Kingdom</li>
-          <li><strong>US Office Phone:</strong> <a href="tel:+13024696267">+1 (302) 469-6267</a></li>
+          <li><strong>US Office Phone:</strong> <a href="tel:+13025991401">+1 (302) 599-1401</a></li>
           <li><strong>US Office:</strong> 131 Continental Drive, Newark, Delaware 19713, USA</li>
         </ul>
       </section>

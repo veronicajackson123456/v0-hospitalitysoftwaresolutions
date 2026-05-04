@@ -42,7 +42,7 @@ export function Header() {
               </svg>
             </div>
             <div>
-              <div className="font-bold text-gray-900 text-lg leading-none">HMCTS</div>
+              <div className="font-bold text-gray-900 text-lg leading-none">HMCTS LLC</div>
               <div className="text-xs text-gray-500 leading-none mt-0.5">Hotel Management Consultants &amp; Technical Solutions</div>
             </div>
           </Link>
