@@ -111,10 +111,10 @@ export default function ContactPage() {
                     <li className="flex items-center gap-3">
                       <Phone className="w-5 h-5 text-blue-500 shrink-0" />
                       <a
-                        href="tel:+13024696267"
+                        href="tel:+13025991401"
                         className="text-sm text-gray-700 hover:text-blue-600 transition-colors"
                       >
-                        +1 (302) 469-6267
+                        +1 (302) 599-1401
                       </a>
                     </li>
                     <li className="flex items-center gap-3">

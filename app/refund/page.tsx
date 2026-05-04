@@ -185,7 +185,7 @@ export default function RefundPolicyPage() {
             <strong>UK Phone:</strong> <a href="tel:+443333355520">+44 (0)333 335 5520</a>
           </li>
           <li>
-            <strong>US Phone:</strong> <a href="tel:+13024696267">+1 (302) 469-6267</a>
+            <strong>US Phone:</strong> <a href="tel:+13025991401">+1 (302) 599-1401</a>
           </li>
           <li>
             <strong>UK Office:</strong> 84 Swinton Hall Road, Swinton, Manchester, M27 4BJ, United Kingdom

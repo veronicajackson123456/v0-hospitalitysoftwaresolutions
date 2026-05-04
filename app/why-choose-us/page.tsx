@@ -146,7 +146,7 @@ export default function WhyChooseUsPage() {
           <div className="container mx-auto px-4 max-w-4xl text-center">
             <h2 className="text-4xl font-bold mb-6">Ready to Transform Your Property?</h2>
             <p className="text-xl mb-8 text-teal-50">
-              Join hundreds of properties who have already made the switch to HMCTS and are experiencing exceptional
+              Join hundreds of properties who have already made the switch to HMCTS LLC and are experiencing exceptional
               results.
             </p>
             <div className="flex flex-wrap justify-center gap-4">

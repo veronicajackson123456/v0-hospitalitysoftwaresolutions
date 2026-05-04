@@ -45,7 +45,7 @@ export default function PrivacyPage() {
           <br />
           <strong>US Office:</strong><br />
           131 Continental Drive, Newark, Delaware 19713, USA<br />
-          Phone: <a href="tel:+13024696267">+1 (302) 469-6267</a><br />
+          Phone: <a href="tel:+13025991401">+1 (302) 599-1401</a><br />
           Email: <a href="mailto:info@hospitalitysoftwaresolutions.com">info@hospitalitysoftwaresolutions.com</a><br />
           <br />
           <strong>UK Office (operational):</strong><br />
