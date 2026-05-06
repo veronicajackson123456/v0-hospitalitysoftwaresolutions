@@ -391,6 +391,67 @@ export default function HomePage() {
           </div>
         </section>
 
+        {/* PMS Explainer Video Section */}
+        <section className="py-24 bg-white">
+          <div className="container mx-auto px-4 max-w-7xl">
+            <div className="grid lg:grid-cols-2 gap-16 items-center">
+              {/* Text Content */}
+              <div>
+                <Badge className="mb-4 bg-teal-50 text-teal-700 border-teal-200 rounded-full">
+                  Understanding PMS
+                </Badge>
+                <h2 className="text-4xl font-bold mb-6 text-gray-900 text-balance">
+                  What is a Hotel Property
+                  <span className="text-teal-600"> Management System?</span>
+                </h2>
+                <p className="text-lg text-gray-600 mb-5 leading-relaxed">
+                  A Hotel Property Management System (PMS) is the central nervous system of your entire hotel operation. It connects every department — from front desk and housekeeping to revenue management and guest communications — into a single, unified platform.
+                </p>
+                <p className="text-gray-600 mb-5 leading-relaxed">
+                  Without a modern PMS, hotels rely on disconnected tools, manual spreadsheets, and fragmented data. This leads to double bookings, missed revenue opportunities, and inconsistent guest experiences. A cloud-based PMS like the one offered by HMCTS LLC eliminates these pain points and puts you in full control of your property.
+                </p>
+                <ul className="space-y-3 mb-8">
+                  {[
+                    "Real-time reservation and availability management",
+                    "Seamless front desk check-in and check-out",
+                    "Automated housekeeping task assignments",
+                    "Direct channel and OTA distribution",
+                    "Revenue reporting and performance analytics",
+                    "Guest profile tracking and CRM capabilities",
+                  ].map((item) => (
+                    <li key={item} className="flex items-start gap-3 text-sm text-gray-700">
+                      <CheckCircle className="w-5 h-5 text-teal-500 shrink-0 mt-0.5" />
+                      {item}
+                    </li>
+                  ))}
+                </ul>
+                <div className="flex flex-wrap gap-4">
+                  <Button asChild className="bg-teal-500 hover:bg-teal-600 text-white rounded-full px-6">
+                    <Link href="/platform">Explore Our PMS</Link>
+                  </Button>
+                  <Button asChild variant="outline" className="rounded-full px-6 border-gray-300">
+                    <Link href="/contact">Request a Demo</Link>
+                  </Button>
+                </div>
+              </div>
+
+              {/* Video */}
+              <div className="relative rounded-2xl overflow-hidden shadow-2xl bg-gray-900">
+                <video
+                  className="w-full h-full object-cover"
+                  controls
+                  preload="metadata"
+                  poster=""
+                  aria-label="Explainer video: What is a Hotel Property Management System"
+                >
+                  <source src="/pms-explainer.mp4" type="video/mp4" />
+                  Your browser does not support the video tag.
+                </video>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* CTA Section */}
         <section className="py-20 bg-teal-500">
           <div className="container mx-auto px-4 max-w-4xl text-center">
