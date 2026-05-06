@@ -3,7 +3,7 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { Calendar, Clock, ArrowLeft, ArrowRight, CheckCircle } from "lucide-react"
+import { Clock, ArrowLeft, ArrowRight, CheckCircle } from "lucide-react"
 import Image from "next/image"
 import Link from "next/link"
 
@@ -82,10 +82,6 @@ export default function ArticleKeyFeatures() {
               Key Features Every Independent Hotel Needs in a PMS
             </h1>
             <div className="flex items-center gap-6 text-sm text-gray-400">
-              <span className="flex items-center gap-2">
-                <Calendar className="w-4 h-4" />
-                28 January 2025
-              </span>
               <span className="flex items-center gap-2">
                 <Clock className="w-4 h-4" />
                 10 min read

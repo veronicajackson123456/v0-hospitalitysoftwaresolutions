@@ -3,7 +3,7 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { ArrowRight, Calendar, Clock } from "lucide-react"
+import { ArrowRight, Clock } from "lucide-react"
 import Image from "next/image"
 import Link from "next/link"
 
@@ -20,7 +20,6 @@ const articles = [
     excerpt:
       "Cloud migration, AI-assisted pricing, and API-first architecture are reshaping the PMS landscape. Here is what independent hotel operators need to know about the next generation of property management technology.",
     category: "Technology Trends",
-    date: "14 March 2025",
     readTime: "8 min read",
     image: "https://images.unsplash.com/photo-1517502884422-41eaead166d4?q=80&w=2025&auto=format&fit=crop",
     imageAlt: "Modern hotel technology interface",
@@ -31,7 +30,6 @@ const articles = [
     excerpt:
       "Not all property management systems are created equal. For independent hotels operating without the IT resources of a branded chain, choosing the right feature set can make the difference between a system that helps and one that hinders.",
     category: "Best Practice",
-    date: "28 January 2025",
     readTime: "10 min read",
     image: "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=2070&auto=format&fit=crop",
     imageAlt: "Hotel front desk operations",
@@ -42,7 +40,6 @@ const articles = [
     excerpt:
       "US and UK hotels share much in common, but the technology landscape — from payment gateways to OTA mix — differs considerably. A guide for operators managing properties in both markets, or expanding from one to the other.",
     category: "Market Insights",
-    date: "5 December 2024",
     readTime: "12 min read",
     image: "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=2070&auto=format&fit=crop",
     imageAlt: "Hotel lobby in the United Kingdom",
@@ -95,10 +92,6 @@ export default function BlogPage() {
                 <p className="text-gray-600 leading-relaxed mb-6">{articles[0].excerpt}</p>
                 <div className="flex items-center gap-5 text-sm text-gray-500 mb-8">
                   <span className="flex items-center gap-1.5">
-                    <Calendar className="w-4 h-4" />
-                    {articles[0].date}
-                  </span>
-                  <span className="flex items-center gap-1.5">
                     <Clock className="w-4 h-4" />
                     {articles[0].readTime}
                   </span>
@@ -141,10 +134,6 @@ export default function BlogPage() {
                     <p className="text-gray-600 text-sm leading-relaxed mb-5 line-clamp-3">{article.excerpt}</p>
                     <div className="flex items-center justify-between">
                       <div className="flex items-center gap-3 text-xs text-gray-500">
-                        <span className="flex items-center gap-1">
-                          <Calendar className="w-3.5 h-3.5" />
-                          {article.date}
-                        </span>
                         <span className="flex items-center gap-1">
                           <Clock className="w-3.5 h-3.5" />
                           {article.readTime}
