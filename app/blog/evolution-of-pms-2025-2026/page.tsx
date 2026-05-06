@@ -3,7 +3,7 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { Calendar, Clock, ArrowLeft, ArrowRight } from "lucide-react"
+import { Clock, ArrowLeft, ArrowRight } from "lucide-react"
 import Image from "next/image"
 import Link from "next/link"
 
@@ -33,10 +33,6 @@ export default function ArticleEvolutionPMS() {
               The Evolution of Property Management Systems in 2025–2026
             </h1>
             <div className="flex items-center gap-6 text-sm text-gray-400">
-              <span className="flex items-center gap-2">
-                <Calendar className="w-4 h-4" />
-                14 March 2025
-              </span>
               <span className="flex items-center gap-2">
                 <Clock className="w-4 h-4" />
                 8 min read
