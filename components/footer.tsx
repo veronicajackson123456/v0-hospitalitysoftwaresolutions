@@ -9,7 +9,7 @@ export function Footer() {
           {/* Brand */}
           <div className="lg:col-span-2">
             <Link href="/" className="flex items-center gap-3 mb-5">
-              <div className="w-10 h-10 bg-teal-500 rounded-lg flex items-center justify-center">
+              <div className="w-10 h-10 bg-teal-500 rounded-lg flex items-center justify-center shrink-0">
                 <svg className="w-6 h-6 text-white" viewBox="0 0 24 24" fill="currentColor">
                   <rect x="4" y="4" width="7" height="7" />
                   <rect x="13" y="4" width="7" height="7" />
@@ -18,8 +18,8 @@ export function Footer() {
                 </svg>
               </div>
               <div>
-                <div className="font-bold text-white text-lg">HMCTS LLC</div>
-                <div className="text-xs text-gray-400">Hotel Management Consultants &amp; Technical Solutions</div>
+                <div className="font-bold text-white text-lg leading-none">HMCTS LLC</div>
+                <div className="text-xs text-gray-400 leading-none mt-0.5">Hotel Management Consultants &amp; Technical Solutions</div>
               </div>
             </Link>
             <p className="text-sm text-gray-400 leading-relaxed mb-5">
@@ -172,7 +172,7 @@ export function Footer() {
         <div className="mt-12 pt-8 border-t border-gray-700">
           <div className="flex flex-col gap-4">
             <p className="text-xs text-gray-500 leading-relaxed">
-              <strong className="text-gray-400">HMCTS LLC</strong> — Incorporated in the State of Delaware, United States. Authentication Number: 204421330, EIN: 37-2155102. Registered Agent Address: 131 Continental Drive, Newark, Delaware 19713, USA. UK Office (operational, not a registered office): 84 Swinton Hall Road, Swinton, Manchester, M27 4BJ, UK. HMCTS LLC is not registered in the United Kingdom.
+              <strong className="text-gray-400">HMCTS LLC</strong> �� Incorporated in the State of Delaware, United States. Authentication Number: 204421330, EIN: 37-2155102. Registered Agent Address: 131 Continental Drive, Newark, Delaware 19713, USA. UK Office (operational, not a registered office): 84 Swinton Hall Road, Swinton, Manchester, M27 4BJ, UK. HMCTS LLC is not registered in the United Kingdom.
             </p>
             <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
               <p className="text-xs text-gray-500">

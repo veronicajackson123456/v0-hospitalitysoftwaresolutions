@@ -33,7 +33,7 @@ export function Header() {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-teal-500 rounded-lg flex items-center justify-center">
+            <div className="w-10 h-10 bg-teal-500 rounded-lg flex items-center justify-center shrink-0">
               <svg className="w-6 h-6 text-white" viewBox="0 0 24 24" fill="currentColor">
                 <rect x="4" y="4" width="7" height="7" />
                 <rect x="13" y="4" width="7" height="7" />
