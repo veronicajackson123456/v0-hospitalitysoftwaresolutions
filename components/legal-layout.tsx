@@ -33,7 +33,6 @@ export function LegalLayout({ title, subtitle, lastUpdated, sections, children }
           </div>
           <h1 className="text-3xl md:text-5xl font-bold text-white text-balance">{title}</h1>
           {subtitle && <p className="mt-3 text-gray-400 text-lg">{subtitle}</p>}
-          <p className="mt-4 text-sm text-gray-500">Last updated: {lastUpdated}</p>
         </div>
       </div>
 

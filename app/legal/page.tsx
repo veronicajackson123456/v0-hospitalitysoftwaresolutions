@@ -119,7 +119,6 @@ export default function LegalPage() {
                   </div>
                   <h2 className="text-lg font-bold text-gray-900 mb-2">{page.title}</h2>
                   <p className="text-sm text-gray-600 leading-relaxed flex-1">{page.description}</p>
-                  <p className="text-xs text-gray-400 mt-4">Last updated: {page.lastUpdated}</p>
                 </Link>
               )
             })}
