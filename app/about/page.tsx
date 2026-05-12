@@ -249,6 +249,73 @@ export default function AboutPage() {
           </div>
         </section>
 
+        {/* Director's Qualifications */}
+        <section className="py-20 bg-gray-50">
+          <div className="container mx-auto px-4 max-w-7xl">
+            <div className="text-center mb-14">
+              <Badge className="mb-4 bg-teal-50 text-teal-700 border-teal-200 rounded-full">Professional Credentials</Badge>
+              <h2 className="text-4xl font-bold text-gray-900 mb-4">Director&apos;s Qualifications</h2>
+              <p className="text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed">
+                HMCTS LLC is led by a professionally qualified hospitality specialist with formal academic recognition from one of the industry&apos;s most respected bodies.
+              </p>
+            </div>
+
+            <div className="grid lg:grid-cols-2 gap-12 items-center max-w-5xl mx-auto">
+              {/* Certificate Image */}
+              <div className="relative rounded-2xl overflow-hidden shadow-xl border border-gray-200 bg-white p-4">
+                <Image
+                  src="/hcima-certificate.jpg"
+                  alt="HCIMA Licentiate Certificate awarded to Thomas Anthony McHugh, dated 25th March 1988"
+                  width={600}
+                  height={780}
+                  className="w-full h-auto rounded-lg object-contain"
+                />
+              </div>
+
+              {/* Credential Detail */}
+              <div>
+                <div className="bg-white rounded-2xl p-8 border border-gray-200 shadow-sm mb-6">
+                  <h3 className="text-xl font-bold text-gray-900 mb-1">Thomas Anthony McHugh</h3>
+                  <p className="text-teal-600 font-medium text-sm mb-5">LHCIMA — Licentiate, Hotel Catering &amp; Institutional Management Association</p>
+                  <ul className="space-y-4 text-sm text-gray-700">
+                    <li className="flex items-start gap-3">
+                      <span className="w-2 h-2 bg-teal-500 rounded-full shrink-0 mt-1.5" />
+                      <div>
+                        <strong className="block text-gray-900">Awarding Body</strong>
+                        Hotel Catering &amp; Institutional Management Association (HCIMA)
+                      </div>
+                    </li>
+                    <li className="flex items-start gap-3">
+                      <span className="w-2 h-2 bg-teal-500 rounded-full shrink-0 mt-1.5" />
+                      <div>
+                        <strong className="block text-gray-900">Designation</strong>
+                        Licentiate (LHCIMA) — Membership No. L.38957
+                      </div>
+                    </li>
+                    <li className="flex items-start gap-3">
+                      <span className="w-2 h-2 bg-teal-500 rounded-full shrink-0 mt-1.5" />
+                      <div>
+                        <strong className="block text-gray-900">Awarded</strong>
+                        25th March 1988
+                      </div>
+                    </li>
+                    <li className="flex items-start gap-3">
+                      <span className="w-2 h-2 bg-teal-500 rounded-full shrink-0 mt-1.5" />
+                      <div>
+                        <strong className="block text-gray-900">About the HCIMA</strong>
+                        The Hotel Catering &amp; Institutional Management Association was the United Kingdom&apos;s leading professional body for the hospitality industry, later becoming the Institute of Hospitality. Licentiate membership was awarded to professionals demonstrating a high standard of knowledge and experience in hotel and catering management.
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+                <p className="text-sm text-gray-500 leading-relaxed">
+                  This formal qualification underpins the operational expertise and industry knowledge that HMCTS LLC brings to every client engagement. Our consultancy and technology recommendations are grounded in real hospitality management experience — not just software development.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* Values */}
         <section className="py-20 bg-gray-50">
           <div className="container mx-auto px-4 max-w-7xl">
