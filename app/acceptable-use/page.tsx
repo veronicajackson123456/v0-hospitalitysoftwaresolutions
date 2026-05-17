@@ -35,7 +35,7 @@ export default function AcceptableUsePage() {
         <p>
           This Acceptable Use Policy (&ldquo;AUP&rdquo;) is issued by HMCTS LLC &ndash; Hospitality Management
           Consultancy &amp; Technology Solutions (&ldquo;HMCTS&rdquo;, &ldquo;us&rdquo;, &ldquo;our&rdquo;, or
-          &ldquo;we&rdquo;), incorporated in the State of Delaware, United States (Authentication Number: 204421330, EIN: 37-2155102).
+          &ldquo;we&rdquo;), incorporated in the State of Delaware, United States (Company No. 5137554, EIN: 37-2155102).
         </p>
         <p>
           This AUP applies to all users of the HMCTS platform, website, API, and associated services

@@ -142,7 +142,7 @@ export default function AboutPage() {
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-teal-500 font-bold mt-0.5">—</span>
-                    <span><strong>Authentication Number:</strong> 204421330</span>
+                    <span><strong>Company No.:</strong> 5137554</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-teal-500 font-bold mt-0.5">—</span>

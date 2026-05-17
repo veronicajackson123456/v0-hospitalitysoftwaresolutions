@@ -41,7 +41,7 @@ export default function PrivacyPage() {
         </p>
         <p>
           <strong>HMCTS LLC</strong> (Hospitality Management Consultancy &amp; Technology Solutions)<br />
-          Incorporated in the State of Delaware, United States. Authentication Number: 204421330. EIN: 37-2155102.<br />
+          Incorporated in the State of Delaware, United States. Company No. 5137554. EIN: 37-2155102.<br />
           <br />
           <strong>US Office:</strong><br />
           131 Continental Drive, Newark, Delaware 19713, USA<br />

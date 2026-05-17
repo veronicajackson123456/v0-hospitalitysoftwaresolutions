@@ -172,7 +172,7 @@ export function Footer() {
         <div className="mt-12 pt-8 border-t border-gray-700">
           <div className="flex flex-col gap-4">
             <p className="text-xs text-gray-500 leading-relaxed">
-              <strong className="text-gray-400">HMCTS LLC</strong> &mdash; Incorporated in the State of Delaware, United States. Authentication Number: 204421330, EIN: 37-2155102. Registered Agent Address: 131 Continental Drive, Newark, Delaware 19713, USA. UK Office (operational, not a registered office): 84 Swinton Hall Road, Swinton, Manchester, M27 4BJ, UK. HMCTS LLC is not registered in the United Kingdom.
+              <strong className="text-gray-400">HMCTS LLC</strong> &mdash; Incorporated in the State of Delaware, United States. Company No. 5137554, EIN: 37-2155102. Registered Office Address: 131 Continental Drive, Newark, Delaware 19713, USA. UK Office (operational, not a registered office): 84 Swinton Hall Road, Swinton, Manchester, M27 4BJ, UK. HMCTS LLC is not registered in the United Kingdom.
             </p>
             <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-3">
               <p className="text-xs text-gray-500">

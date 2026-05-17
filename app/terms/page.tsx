@@ -37,7 +37,7 @@ export default function TermsPage() {
           The website located at hospitalitysoftwaresolutions.com (the &ldquo;Site&rdquo;) is operated by HMCTS LLC
           &ndash; Hospitality Management Consultancy &amp; Technology Solutions (&ldquo;Company&rdquo;, &ldquo;us&rdquo;,
           &ldquo;our&rdquo;, and &ldquo;we&rdquo;). HMCTS LLC is incorporated in the State of Delaware, United States
-          (Authentication Number: 204421330, EIN: 37-2155102). Certain features of the Site may be subject to additional guidelines, terms, or
+          (Company No. 5137554, EIN: 37-2155102). Certain features of the Site may be subject to additional guidelines, terms, or
           rules, which will be posted in connection with such features and are incorporated by reference into these Terms.
         </p>
         <p>
