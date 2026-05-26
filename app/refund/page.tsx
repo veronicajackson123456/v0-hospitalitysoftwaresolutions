@@ -179,7 +179,10 @@ export default function RefundPolicyPage() {
         </p>
         <ul>
           <li>
-            <strong>Email:</strong> <a href="mailto:uk@hospitalitysoftwaresolutions.com">uk@hospitalitysoftwaresolutions.com</a>
+            <strong>UK Email:</strong> <a href="mailto:uk@hospitalitysoftwaresolutions.com">uk@hospitalitysoftwaresolutions.com</a>
+          </li>
+          <li>
+            <strong>US Email:</strong> <a href="mailto:usa@hospitalitysoftwaresolutions.com">usa@hospitalitysoftwaresolutions.com</a>
           </li>
           <li>
             <strong>UK Phone:</strong> <a href="tel:+443333355520">+44 (0)333 335 5520</a>
