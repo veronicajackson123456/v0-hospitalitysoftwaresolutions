@@ -46,12 +46,12 @@ export default function PrivacyPage() {
           <strong>US Office:</strong><br />
           131 Continental Drive, Newark, Delaware 19713, USA<br />
           Phone: <a href="tel:+13025991401">+1 (302) 599-1401</a><br />
-          Email: <a href="mailto:info@hospitalitysoftwaresolutions.com">info@hospitalitysoftwaresolutions.com</a><br />
+          Email: <a href="mailto:uk@hospitalitysoftwaresolutions.com">uk@hospitalitysoftwaresolutions.com</a><br />
           <br />
           <strong>UK Office (operational):</strong><br />
           84 Swinton Hall Road, Swinton, Manchester, M27 4BJ, United Kingdom<br />
           Phone: <a href="tel:+443333355520">+44 (0)333 335 5520</a><br />
-          Email: <a href="mailto:info@hospitalitysoftwaresolutions.com">info@hospitalitysoftwaresolutions.com</a>
+          Email: <a href="mailto:uk@hospitalitysoftwaresolutions.com">uk@hospitalitysoftwaresolutions.com</a>
         </p>
       </section>
 
@@ -291,7 +291,7 @@ export default function PrivacyPage() {
           contact us:
         </p>
         <ul>
-          <li><strong>Email:</strong> <a href="mailto:info@hospitalitysoftwaresolutions.com">info@hospitalitysoftwaresolutions.com</a></li>
+          <li><strong>Email:</strong> <a href="mailto:uk@hospitalitysoftwaresolutions.com">uk@hospitalitysoftwaresolutions.com</a></li>
           <li><strong>Phone:</strong> <a href="tel:+443333355520">+44 (0)333 335 5520</a></li>
           <li>
             <strong>UK Office:</strong> 84 Swinton Hall Road, Swinton, Manchester, M27 4BJ, United Kingdom

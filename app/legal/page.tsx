@@ -145,10 +145,10 @@ export default function LegalPage() {
                   <li className="flex items-start gap-3">
                     <Mail className="w-4 h-4 text-orange-500 shrink-0 mt-0.5" />
                     <a
-                      href="mailto:info@hospitalitysoftwaresolutions.com"
+                      href="mailto:uk@hospitalitysoftwaresolutions.com"
                       className="text-sm text-gray-700 hover:text-orange-500 transition-colors"
                     >
-                      info@hospitalitysoftwaresolutions.com
+                      uk@hospitalitysoftwaresolutions.com
                     </a>
                   </li>
                   <li className="flex items-start gap-3">

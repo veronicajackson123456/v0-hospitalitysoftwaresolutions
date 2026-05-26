@@ -162,8 +162,8 @@ export default function AboutPage() {
                   </li>
                   <li className="flex items-center gap-2">
                     <Mail className="w-4 h-4 text-teal-500 shrink-0" />
-                    <a href="mailto:info@hospitalitysoftwaresolutions.com" className="text-teal-600 hover:text-teal-700 transition-colors break-all">
-                      info@hospitalitysoftwaresolutions.com
+                    <a href="mailto:uk@hospitalitysoftwaresolutions.com" className="text-teal-600 hover:text-teal-700 transition-colors break-all">
+                      uk@hospitalitysoftwaresolutions.com
                     </a>
                   </li>
                 </ul>
@@ -197,8 +197,8 @@ export default function AboutPage() {
                   </li>
                   <li className="flex items-center gap-2">
                     <Mail className="w-4 h-4 text-teal-500 shrink-0" />
-                    <a href="mailto:info@hospitalitysoftwaresolutions.com" className="text-teal-600 hover:text-teal-700 transition-colors break-all">
-                      info@hospitalitysoftwaresolutions.com
+                    <a href="mailto:uk@hospitalitysoftwaresolutions.com" className="text-teal-600 hover:text-teal-700 transition-colors break-all">
+                      uk@hospitalitysoftwaresolutions.com
                     </a>
                   </li>
                 </ul>

@@ -66,7 +66,7 @@ export default function RefundPolicyPage() {
         <h3>3.1 Submission Process</h3>
         <p>To request a refund, please follow these steps:</p>
         <ol>
-          <li>Send a written request to <a href="mailto:info@hospitalitysoftwaresolutions.com">info@hospitalitysoftwaresolutions.com</a> with the subject line &ldquo;Refund Request.&rdquo;</li>
+          <li>Send a written request to <a href="mailto:uk@hospitalitysoftwaresolutions.com">uk@hospitalitysoftwaresolutions.com</a> with the subject line &ldquo;Refund Request.&rdquo;</li>
           <li>Include your Order ID, full name, email address, and a detailed explanation of the reason for the refund request.</li>
           <li>Attach any relevant documentation or evidence supporting your claim (e.g., screenshots, email correspondence, proof of payment).</li>
           <li>Await confirmation that your request has been received and is under review.</li>
@@ -179,7 +179,7 @@ export default function RefundPolicyPage() {
         </p>
         <ul>
           <li>
-            <strong>Email:</strong> <a href="mailto:info@hospitalitysoftwaresolutions.com">info@hospitalitysoftwaresolutions.com</a>
+            <strong>Email:</strong> <a href="mailto:uk@hospitalitysoftwaresolutions.com">uk@hospitalitysoftwaresolutions.com</a>
           </li>
           <li>
             <strong>UK Phone:</strong> <a href="tel:+443333355520">+44 (0)333 335 5520</a>

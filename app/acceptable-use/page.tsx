@@ -179,7 +179,7 @@ export default function AcceptableUsePage() {
         </ul>
         <p>
           Security vulnerabilities discovered in the HMCTS platform should be reported to us responsibly at{" "}
-          <a href="mailto:info@hospitalitysoftwaresolutions.com">info@hospitalitysoftwaresolutions.com</a> before
+          <a href="mailto:uk@hospitalitysoftwaresolutions.com">uk@hospitalitysoftwaresolutions.com</a> before
           any public disclosure.
         </p>
       </section>
@@ -224,7 +224,7 @@ export default function AcceptableUsePage() {
           security vulnerability or data protection concern, please contact us promptly:
         </p>
         <ul>
-          <li><strong>Email:</strong> <a href="mailto:info@hospitalitysoftwaresolutions.com">info@hospitalitysoftwaresolutions.com</a></li>
+          <li><strong>Email:</strong> <a href="mailto:uk@hospitalitysoftwaresolutions.com">uk@hospitalitysoftwaresolutions.com</a></li>
           <li><strong>Phone:</strong> <a href="tel:+443333355520">+44 (0)333 335 5520</a></li>
         </ul>
         <p>
@@ -259,7 +259,7 @@ export default function AcceptableUsePage() {
           For any questions about this Acceptable Use Policy, please contact us:
         </p>
         <ul>
-          <li><strong>Email:</strong> <a href="mailto:info@hospitalitysoftwaresolutions.com">info@hospitalitysoftwaresolutions.com</a></li>
+          <li><strong>Email:</strong> <a href="mailto:uk@hospitalitysoftwaresolutions.com">uk@hospitalitysoftwaresolutions.com</a></li>
           <li><strong>UK Office Phone:</strong> <a href="tel:+443333355520">+44 (0)333 335 5520</a></li>
           <li><strong>UK Office:</strong> 84 Swinton Hall Road, Swinton, Manchester, M27 4BJ, United Kingdom</li>
           <li><strong>US Office Phone:</strong> <a href="tel:+13025991401">+1 (302) 599-1401</a></li>
