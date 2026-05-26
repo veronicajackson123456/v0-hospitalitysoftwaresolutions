@@ -84,10 +84,10 @@ export default function ContactPage() {
                     <li className="flex items-center gap-3">
                       <Mail className="w-5 h-5 text-teal-500 shrink-0" />
                       <a
-                        href="mailto:info@hospitalitysoftwaresolutions.com"
+                        href="mailto:uk@hospitalitysoftwaresolutions.com"
                         className="text-sm text-gray-700 hover:text-teal-600 transition-colors break-all"
                       >
-                        info@hospitalitysoftwaresolutions.com
+                        uk@hospitalitysoftwaresolutions.com
                       </a>
                     </li>
                   </ul>
@@ -120,10 +120,10 @@ export default function ContactPage() {
                     <li className="flex items-center gap-3">
                       <Mail className="w-5 h-5 text-blue-500 shrink-0" />
                       <a
-                        href="mailto:info@hospitalitysoftwaresolutions.com"
+                        href="mailto:usa@hospitalitysoftwaresolutions.com"
                         className="text-sm text-gray-700 hover:text-blue-600 transition-colors break-all"
                       >
-                        info@hospitalitysoftwaresolutions.com
+                        usa@hospitalitysoftwaresolutions.com
                       </a>
                     </li>
                   </ul>

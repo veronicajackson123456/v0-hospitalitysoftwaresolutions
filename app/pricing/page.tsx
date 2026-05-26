@@ -258,8 +258,8 @@ export default function PricingPage() {
             </div>
             <p className="mt-6 text-sm text-gray-500">
               Or email{" "}
-              <a href="mailto:info@hospitalitysoftwaresolutions.com" className="text-teal-400 hover:text-teal-300">
-                info@hospitalitysoftwaresolutions.com
+              <a href="mailto:uk@hospitalitysoftwaresolutions.com" className="text-teal-400 hover:text-teal-300">
+                uk@hospitalitysoftwaresolutions.com
               </a>
             </p>
           </div>
