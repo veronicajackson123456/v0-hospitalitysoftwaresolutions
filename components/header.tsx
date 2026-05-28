@@ -31,15 +31,15 @@ export function Header() {
   return (
     <header className="fixed top-0 left-0 right-0 bg-white border-b border-gray-200 z-50">
       <div className="container mx-auto px-4 max-w-7xl">
-        <div className="flex items-center justify-between h-20">
+        <div className="flex items-center justify-between h-32">
           {/* Logo */}
           <Link href="/" className="flex items-center shrink-0">
             <Image
               src="/hmcts-logo-full.png"
               alt="HMCTS LLC - Property Management Systems for Hotels"
-              width={120}
-              height={60}
-              className="h-12 w-auto object-contain"
+              width={240}
+              height={120}
+              className="h-28 w-auto object-contain"
               priority
             />
           </Link>

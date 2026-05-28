@@ -13,9 +13,9 @@ export function Footer() {
               <Image
                 src="/hmcts-logo-full.png"
                 alt="HMCTS LLC - Property Management Systems for Hotels"
-                width={140}
-                height={70}
-                className="h-16 w-auto object-contain"
+                width={280}
+                height={140}
+                className="h-32 w-auto object-contain"
               />
             </Link>
             <p className="text-sm text-gray-400 leading-relaxed mb-5">
