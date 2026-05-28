@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { Mail, Phone, MapPin } from "lucide-react"
+import Image from "next/image"
 
 export function Footer() {
   return (
@@ -8,19 +9,14 @@ export function Footer() {
         <div className="grid md:grid-cols-2 lg:grid-cols-5 gap-10">
           {/* Brand */}
           <div className="lg:col-span-2">
-            <Link href="/" className="flex items-center gap-3 mb-5">
-              <div className="w-10 h-10 bg-teal-500 rounded-lg flex items-center justify-center shrink-0">
-                <svg className="w-6 h-6 text-white" viewBox="0 0 24 24" fill="currentColor">
-                  <rect x="4" y="4" width="7" height="7" />
-                  <rect x="13" y="4" width="7" height="7" />
-                  <rect x="4" y="13" width="7" height="7" />
-                  <rect x="13" y="13" width="7" height="7" />
-                </svg>
-              </div>
-              <div>
-                <div className="font-bold text-white text-lg leading-none">HMCTS LLC</div>
-                <div className="text-xs text-gray-400 leading-none mt-0.5">Hotel Management Consultants &amp; Technical Solutions</div>
-              </div>
+            <Link href="/" className="flex items-center mb-5 shrink-0">
+              <Image
+                src="/hmcts-logo-full.png"
+                alt="HMCTS LLC - Property Management Systems for Hotels"
+                width={140}
+                height={70}
+                className="h-16 w-auto object-contain"
+              />
             </Link>
             <p className="text-sm text-gray-400 leading-relaxed mb-5">
               Property management software built for independent hotels, boutique groups, and serviced apartments across the US and UK. Backed by 30+ years of collective hospitality industry expertise.
